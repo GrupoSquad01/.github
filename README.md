@@ -1,5 +1,5 @@
 # .github
-Configurações e arquivos globais para a organização GrupoSquad01
+Configurações e arquivos globais para a organização Squad01
 
 # Bem-vindo ao GrupoSquad01
 
